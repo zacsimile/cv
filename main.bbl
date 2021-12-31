@@ -1,0 +1,431 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{marin_pymevisualize_2021}{article}{}
+      \name{author}{7}{}{%
+        {{hash=db9f687f892cd3bd543c8ebe447c90b5}{%
+           family={\textbf{Marin,\bibnamedelimb Z.}},
+           familyi={M\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=2ddb26bdbc3035c95e9b88af56b4715e}{%
+           family={Graff},
+           familyi={G\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f145417b1d5d926610407357b9202b36}{%
+           family={Barentine},
+           familyi={B\bibinitperiod},
+           given={Andrew\bibnamedelimb E.\bibnamedelimi S.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=3a4db6b4104ba5c70e36f4c6f0abf578}{%
+           family={Soeller},
+           familyi={S\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ec1a46e0aa99df13a6a2f7a216b5e83e}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={Kenny\bibnamedelimb Kwok\bibnamedelima Hin},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=4a6ba10f0ed0eca7ac2b67a6f7ccf373}{%
+           family={Fuentes},
+           familyi={F\bibinitperiod},
+           given={Lukas\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=0f466ddbe7d1ec4b0cb84bd36efcb040}{%
+           family={Baddeley},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{9436fbf090be83836b4d82274e1c8655}
+      \strng{fullhash}{64be313c162dcd28b709dbcb8882b7da}
+      \strng{bibnamehash}{64be313c162dcd28b709dbcb8882b7da}
+      \strng{authorbibnamehash}{64be313c162dcd28b709dbcb8882b7da}
+      \strng{authornamehash}{9436fbf090be83836b4d82274e1c8655}
+      \strng{authorfullhash}{64be313c162dcd28b709dbcb8882b7da}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Methods}
+      \field{number}{6}
+      \field{title}{{PYMEVisualize}: an open-source tool for exploring {3D} super-resolution data}
+      \field{volume}{18}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{582\bibrangedash 584}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1038/s41592-021-01165-9
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nature.com/articles/s41592-021-01165-9
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/articles/s41592-021-01165-9
+      \endverb
+      \keyw{page1}
+    \endentry
+    \entry{marin_wavelet-based_2018}{article}{}
+      \name{author}{4}{}{%
+        {{hash=db9f687f892cd3bd543c8ebe447c90b5}{%
+           family={\textbf{Marin,\bibnamedelimb Z.}},
+           familyi={M\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=8af73a7383388c030c0b7e20abf55c09}{%
+           family={Wallace},
+           familyi={W\bibinitperiod},
+           given={J.\bibnamedelimi Kent},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=cadbbd3c8849846c83cac7e186b5de3b}{%
+           family={Nadeau},
+           familyi={N\bibinitperiod},
+           given={Jay},
+           giveni={J\bibinitperiod}}}%
+        {{hash=84d626f6e17e1add17a6b2b5407fd7a9}{%
+           family={Khalil},
+           familyi={K\bibinitperiod},
+           given={Andre},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{9436fbf090be83836b4d82274e1c8655}
+      \strng{fullhash}{5fceb1f1890469755557dfe41b54ade3}
+      \strng{bibnamehash}{5fceb1f1890469755557dfe41b54ade3}
+      \strng{authorbibnamehash}{5fceb1f1890469755557dfe41b54ade3}
+      \strng{authornamehash}{9436fbf090be83836b4d82274e1c8655}
+      \strng{authorfullhash}{5fceb1f1890469755557dfe41b54ade3}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Methods}
+      \field{title}{Wavelet-based tracking of bacteria in unreconstructed off-axis holograms}
+      \field{volume}{136}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{60\bibrangedash 65}
+      \range{pages}{6}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.ymeth.2017.09.003
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1046202317302219
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1046202317302219
+      \endverb
+      \keyw{page1}
+    \endentry
+    \entry{marin_mammographic_2017}{article}{}
+      \name{author}{8}{}{%
+        {{hash=db9f687f892cd3bd543c8ebe447c90b5}{%
+           family={\textbf{Marin,\bibnamedelimb Z.}},
+           familyi={M\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=22a76c345c8ddb954800175036341aba}{%
+           family={Batchelder},
+           familyi={B\bibinitperiod},
+           given={Kendra\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d020987af5929d3c4c27659a21f01073}{%
+           family={Toner},
+           familyi={T\bibinitperiod},
+           given={Brian\bibnamedelima C.},
+           giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=6916d4f18106c338f506117fc73199f5}{%
+           family={Guimond},
+           familyi={G\bibinitperiod},
+           given={Lyne},
+           giveni={L\bibinitperiod}}}%
+        {{hash=fb550f2ca8bba4632073d648e82e60ac}{%
+           family={Gerasimova-Chechkina},
+           familyi={G\bibinithyphendelim C\bibinitperiod},
+           given={Evgeniya},
+           giveni={E\bibinitperiod}}}%
+        {{hash=066556281e72f9ad810a60594199d3e0}{%
+           family={Harrow},
+           familyi={H\bibinitperiod},
+           given={Amy\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=a71acbd94317e8dc530b7bd99a95342e}{%
+           family={Arneodo},
+           familyi={A\bibinitperiod},
+           given={Alain},
+           giveni={A\bibinitperiod}}}%
+        {{hash=84d626f6e17e1add17a6b2b5407fd7a9}{%
+           family={Khalil},
+           familyi={K\bibinitperiod},
+           given={Andre},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{9436fbf090be83836b4d82274e1c8655}
+      \strng{fullhash}{46e6bea2766bb17f1c4da780f400e821}
+      \strng{bibnamehash}{46e6bea2766bb17f1c4da780f400e821}
+      \strng{authorbibnamehash}{46e6bea2766bb17f1c4da780f400e821}
+      \strng{authornamehash}{9436fbf090be83836b4d82274e1c8655}
+      \strng{authorfullhash}{46e6bea2766bb17f1c4da780f400e821}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Medical Physics}
+      \field{number}{4}
+      \field{title}{Mammographic evidence of microenvironment changes in tumorous breasts}
+      \field{volume}{44}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{1324\bibrangedash 1336}
+      \range{pages}{13}
+      \verb{doi}
+      \verb https://doi.org/10.1002/mp.12120
+      \endverb
+      \verb{urlraw}
+      \verb https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.12120
+      \endverb
+      \verb{url}
+      \verb https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.12120
+      \endverb
+      \keyw{page1}
+    \endentry
+    \entry{gerasimova-chechkina_combining_2016}{inproceedings}{}
+      \name{author}{10}{}{%
+        {{hash=c19eeefa9a4889aea7fd0a4a473c87c9}{%
+           family={Gerasimova-Chechkina},
+           familyi={G\bibinithyphendelim C\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d9d230e603a3f44d5245eae858978853}{%
+           family={Toner},
+           familyi={T\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=db9f687f892cd3bd543c8ebe447c90b5}{%
+           family={\textbf{Marin,\bibnamedelimb Z.}},
+           familyi={M\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=ab4890e3196e9a2664402e8e54780ce9}{%
+           family={Audit},
+           familyi={A\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=a5a284e95a5745ed17e4a875a31e12f6}{%
+           family={Roux},
+           familyi={R\bibinitperiod},
+           given={S.\bibnamedelimi G.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=bfe00ad73f8c99fe6a1cdf25fa7d306b}{%
+           family={Argoul},
+           familyi={A\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=358151cb1115571730ecf5ca2fdb2fa1}{%
+           family={Khalil},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5cee90fc96875a9a56123eba379ecebe}{%
+           family={Gileva},
+           familyi={G\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=16d55e5d9c735ead54f60d61a3352762}{%
+           family={Naimark},
+           familyi={N\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=5cdae6f326f7ec12d44d87c678674fa4}{%
+           family={Arneodo},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{a46120ef896ab9711eb3ad9eed28b1d3}
+      \strng{fullhash}{5ceceebcf1be34ebf8c0caf3d6e3337c}
+      \strng{bibnamehash}{5ceceebcf1be34ebf8c0caf3d6e3337c}
+      \strng{authorbibnamehash}{5ceceebcf1be34ebf8c0caf3d6e3337c}
+      \strng{authornamehash}{a46120ef896ab9711eb3ad9eed28b1d3}
+      \strng{authorfullhash}{5ceceebcf1be34ebf8c0caf3d6e3337c}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{AIP} {Conference} {Proceedings}}
+      \field{title}{Combining multifractal analyses of digital mammograms and infrared thermograms to assist in early breast cancer diagnosis}
+      \field{volume}{1760}
+      \field{year}{2016}
+      \true{nocite}
+      \field{pages}{020018}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1063/1.4960237
+      \endverb
+      \verb{urlraw}
+      \verb https://aip.scitation.org/doi/abs/10.1063/1.4960237
+      \endverb
+      \verb{url}
+      \verb https://aip.scitation.org/doi/abs/10.1063/1.4960237
+      \endverb
+      \keyw{page2}
+    \endentry
+    \entry{gerasimova-chechkina_comparative_2016}{article}{}
+      \name{author}{10}{}{%
+        {{hash=fb550f2ca8bba4632073d648e82e60ac}{%
+           family={Gerasimova-Chechkina},
+           familyi={G\bibinithyphendelim C\bibinitperiod},
+           given={Evgeniya},
+           giveni={E\bibinitperiod}}}%
+        {{hash=f5e57ccb564b06ab84575d9448f227ed}{%
+           family={Toner},
+           familyi={T\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+        {{hash=db9f687f892cd3bd543c8ebe447c90b5}{%
+           family={\textbf{Marin,\bibnamedelimb Z.}},
+           familyi={M\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=61ce6dc80129dab8463fa1d6f4e56c22}{%
+           family={Audit},
+           familyi={A\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=eda1e5b7c6eb5f0a3d5e17ce46e52085}{%
+           family={Roux},
+           familyi={R\bibinitperiod},
+           given={Stephane\bibnamedelima G.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=33368d632b7b3d2d45b1700fcb96829e}{%
+           family={Argoul},
+           familyi={A\bibinitperiod},
+           given={Francoise},
+           giveni={F\bibinitperiod}}}%
+        {{hash=84d626f6e17e1add17a6b2b5407fd7a9}{%
+           family={Khalil},
+           familyi={K\bibinitperiod},
+           given={Andre},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c8e96a4b93738ed225c95189465f308c}{%
+           family={Gileva},
+           familyi={G\bibinitperiod},
+           given={Olga},
+           giveni={O\bibinitperiod}}}%
+        {{hash=13467beaecb296fa144599b727787b41}{%
+           family={Naimark},
+           familyi={N\bibinitperiod},
+           given={Oleg},
+           giveni={O\bibinitperiod}}}%
+        {{hash=a71acbd94317e8dc530b7bd99a95342e}{%
+           family={Arneodo},
+           familyi={A\bibinitperiod},
+           given={Alain},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{93742313402c00df0bb8338259e89b35}
+      \strng{fullhash}{3038fd953faa633e00cf4fc5b924dc6b}
+      \strng{bibnamehash}{3038fd953faa633e00cf4fc5b924dc6b}
+      \strng{authorbibnamehash}{3038fd953faa633e00cf4fc5b924dc6b}
+      \strng{authornamehash}{93742313402c00df0bb8338259e89b35}
+      \strng{authorfullhash}{3038fd953faa633e00cf4fc5b924dc6b}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Physiology}
+      \field{title}{Comparative {Multifractal} {Analysis} of {Dynamic} {Infrared} {Thermograms} and {X}-{Ray} {Mammograms} {Enlightens} {Changes} in the {Environment} of {Malignant} {Tumors}}
+      \field{volume}{7}
+      \field{year}{2016}
+      \true{nocite}
+      \field{pages}{336}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fphys.2016.00336
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/article/10.3389/fphys.2016.00336
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/article/10.3389/fphys.2016.00336
+      \endverb
+      \keyw{page2}
+    \endentry
+    \entry{plourde_computational_2016}{article}{}
+      \name{author}{6}{}{%
+        {{hash=826678243241ae9183c8b0dc2e893214}{%
+           family={Plourde},
+           familyi={P\bibinitperiod},
+           given={Shayne\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=db9f687f892cd3bd543c8ebe447c90b5}{%
+           family={\textbf{Marin,\bibnamedelimb Z.}},
+           familyi={M\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=5a1bb3d29ee0493b10cc085ca73dde3b}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Zachary\bibnamedelima R.},
+           giveni={Z\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=d020987af5929d3c4c27659a21f01073}{%
+           family={Toner},
+           familyi={T\bibinitperiod},
+           given={Brian\bibnamedelima C.},
+           giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=22a76c345c8ddb954800175036341aba}{%
+           family={Batchelder},
+           familyi={B\bibinitperiod},
+           given={Kendra\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=84d626f6e17e1add17a6b2b5407fd7a9}{%
+           family={Khalil},
+           familyi={K\bibinitperiod},
+           given={Andre},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{963f30904548b12693b1fe0f62e00a36}
+      \strng{fullhash}{5d9ba87ab36dccd623c0eb52d45fcdb2}
+      \strng{bibnamehash}{5d9ba87ab36dccd623c0eb52d45fcdb2}
+      \strng{authorbibnamehash}{5d9ba87ab36dccd623c0eb52d45fcdb2}
+      \strng{authornamehash}{963f30904548b12693b1fe0f62e00a36}
+      \strng{authorfullhash}{5d9ba87ab36dccd623c0eb52d45fcdb2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers in Biology and Medicine}
+      \field{title}{Computational growth model of breast microcalcification clusters in simulated mammographic environments}
+      \field{volume}{76}
+      \field{year}{2016}
+      \true{nocite}
+      \field{pages}{7\bibrangedash 13}
+      \range{pages}{7}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.compbiomed.2016.06.020
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0010482516301585
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0010482516301585
+      \endverb
+      \keyw{page1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
