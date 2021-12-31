@@ -9,9 +9,11 @@ jobs:
       - name: Compile LaTeX document
         uses: xu-cheng/latex-action@v2
         with:
-          root_file: main.tex
+          root_file: marin_cv.tex
       - name: Rearrange files
         run: |
+          rm .gitignore
+          touch .nojekyll
           mkdir pdf
           mv *.pdf pdf/
       - name: Deploy
