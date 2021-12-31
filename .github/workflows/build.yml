@@ -12,8 +12,6 @@ jobs:
           root_file: main.tex
       - name: Rearrange files
         run: |
-          rm .gitignore
-          touch .nojekyll
           mkdir pdf
           mv *.pdf pdf/
       - name: Deploy
