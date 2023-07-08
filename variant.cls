@@ -19,7 +19,7 @@
 \RequirePackage[legalpaper, portrait, margin=1in]{geometry}
 \RequirePackage{fancyhdr}
 \RequirePackage{hyperref}
-\RequirePackage[style=nature,maxbibnames=99,sorting=ydnt]{biblatex}
+\RequirePackage[style=nature,maxbibnames=99,sorting=none]{biblatex}
 \RequirePackage{longtable}
 
 %% Body of the class, most of the declarations appear here.
