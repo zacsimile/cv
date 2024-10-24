@@ -7,3 +7,6 @@
 *.pdf
 *.run.xml
 *.out
+*.dvi
+*.fdb_latexmk
+*.fls
