@@ -1,0 +1,52 @@
+\documentclass{variant}
+\usepackage[utf8]{inputenc}
+
+\title{CV}
+\author{Zach Marin}
+\fullauthor{Zachary Ryan Connerty-Marin}
+% \date{}
+% \institution{Yale University}
+\email{zachary.connerty-marin@univie.ac.at}
+\github{https://github.com/zacsimile}
+
+\addbibresource{vanity.bib}
+
+\begin{document}
+
+\maketitle
+
+\input{section/academic}
+
+% \input{section/work}
+
+\input{section/awards}
+
+\input{section/leadership}
+
+\input{section/skills}
+
+\input{section/teaching}
+
+% \split{0.15}{0.8}{\section{\raggedright Preprints}}{%
+%     \nocite{*}%
+%     \printbibliography[heading=vhack,keyword={preprint}]
+% }
+
+\split{0.15}{0.8}{\section{\raggedright Peer-reviewed Journal Articles}}{%
+    \nocite{*}%
+    \printbibliography[heading=vhack,keyword={page1}]
+}
+
+\split{0.15}{0.8}{\section{}}{%
+    \printbibliography[heading=vhack,keyword={page2}]
+}
+
+\vspace{11pt}
+
+\input{section/talks}
+
+% \input{section/presentations}
+
+% \input{section/references}
+
+\end{document}
